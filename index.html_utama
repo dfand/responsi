@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halaman Utama</title>
+</head>
+<body>
+    <h1>Halaman Utama</h1>
+    <p>Nama Lengkap: Dzikri Fandi Setiowibowo</p>
+    <p>NIM: 215610053</p>
+    <p>Program Studi: Sistem Informasi</p>
+    <p>Hobi: Bulutangkis</p>
+    <a href="https://63981dca-ca6b-462a-adf7-a18649b3fd9e-10-244-5-47-8081.spch.r.killercoda.com/">Profil Saya</a>
+</body>
+</html>
